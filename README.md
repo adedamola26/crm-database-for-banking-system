@@ -1,6 +1,6 @@
 # crm-database-for-banking-system
 
-These are the names of the project's files and their contents all contained in /project's files folder:
+These are the names of the project's files and their contents all contained in [/project's files] folder:
 1.	ACL-script.sql - script for access control list created using Oracle SQL Developer
 2.	constraints.sql - script containing additional constraint creation statements created using Oracle SQL Developer
 3.	index.sql - script containing indexes created using Oracle SQL Developer
